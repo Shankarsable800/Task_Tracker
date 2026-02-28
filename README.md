@@ -134,11 +134,6 @@ Task\_Tracker/
 
 ---
 
-## 👨‍💻 Author
-
-Developed by **Shankar Sable**
-📅 June 2025
-
 ---
 
 ```
